@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="t">
+  <title id="t">Sua Marca: gestão de projetos elétricos</title>
+  <rect width="1200" height="630" fill="#0f1b2a"/>
+  <rect x="80" y="80" width="64" height="64" rx="12" fill="#1b2d44"/>
+  <path d="M116 90 98 116h12l-3 18 18-26h-13z" fill="#6fd96e"/>
+  <text x="164" y="124" font-family="Inter, system-ui, Segoe UI, Arial, sans-serif" font-size="34" font-weight="600" fill="#f7f8f8" letter-spacing="2">SUA MARCA</text>
+  <text x="80" y="300" font-family="Inter, system-ui, Segoe UI, Arial, sans-serif" font-size="72" font-weight="600" fill="#f7f8f8" letter-spacing="-2">Soluções elétricas seguras,</text>
+  <text x="80" y="384" font-family="Inter, system-ui, Segoe UI, Arial, sans-serif" font-size="72" font-weight="600" fill="#6fd96e" letter-spacing="-2">eficientes e sustentáveis</text>
+  <text x="80" y="470" font-family="Inter, system-ui, Segoe UI, Arial, sans-serif" font-size="30" fill="#d3d7db">Gestão de projetos elétricos para saneamento, construção civil, indústria e porto</text>
+</svg>
